@@ -1,0 +1,12 @@
+#error-page {
+    text-align: center;
+}
+
+#error-page h1 {
+    font-size: 88pt;
+    font-weight: lighter;
+}
+
+#error-page h2 {
+    font-size: 36pt;
+}

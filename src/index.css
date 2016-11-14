@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI WestEuropean", "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", sans-serif;
+
+}
+
+
+#root {
+  height: 100%;
+}
+
+
+
+.white-pane {
+  padding: 0 8px 8px 8px;
+  background: white;
+  margin: 8px;
+  border: 1px solid #e5e5e5;
+  width: 50%;
+}
+
+.white-pane h3 {
+  font-weight: lighter;
+  font-size: 24pt;
+}

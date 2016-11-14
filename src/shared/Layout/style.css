@@ -1,0 +1,29 @@
+#layout {
+    height: 100%;
+
+}
+
+#layout aside {
+    width: 250px;
+    height: 100%;
+    float: left;
+    background: black;
+}
+
+#layout aside #logo {
+    text-align: center;
+}
+
+#layout main {
+    float: left;
+    height: 100%;
+    background: #f1f1f1;
+    width: calc(100% - 250px);
+}
+
+
+#layout aside * {
+
+    color: white ;
+    background: black ;
+}
